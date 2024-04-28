@@ -1,9 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "usuarios": [
+    {
+      "id": "123",
+      "nome": "Detran",
+      "idade": 1,
+      "email": "detran@digital.com.br"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "carros": [
+    {
+      "id": "132",
+      "marca": "BMW",
+      "modelo": "SPORT",
+      "ano": "2026",
+      "cor": "AZUL METÁLICO"
+    }
+  ]
 }
